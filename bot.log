@@ -1,0 +1,364 @@
+2026-05-20 16:50:05,747 [INFO] Abrindo TechStock...
+2026-05-20 16:50:06,443 [INFO] Login no TechStock realizado.
+2026-05-20 16:50:06,446 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 16:50:07,140 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 16:50:07,715 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 16:50:08,215 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 16:50:09,160 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 16:50:09,677 [INFO] Cadastrando: BOHA000251 — Hashtag
+2026-05-20 16:50:10,142 [INFO] Cadastrando: BOHA000252 — Hashtag
+2026-05-20 16:50:10,624 [INFO] Cadastrando: CAHA000273 — Hashtag
+2026-05-20 16:50:11,137 [INFO] Cadastrando: CAHA000274 — Hashtag
+2026-05-20 16:50:11,707 [INFO] Cadastrando: CAHA000275 — Hashtag
+2026-05-20 16:50:12,237 [INFO] Cadastrando: TELG000821 — LG
+2026-05-20 16:50:12,715 [INFO] Cadastrando: TELG000252 — LG
+2026-05-20 16:50:13,245 [INFO] Cadastrando: TELG000373 — LG
+2026-05-20 16:50:13,790 [INFO] Cadastrando: TELG000524 — LG
+2026-05-20 16:50:14,274 [INFO] Cadastrando: TESA000125 — Samsung
+2026-05-20 16:50:14,770 [INFO] Cadastrando: TESA000346 — Samsung
+2026-05-20 16:50:15,214 [INFO] Cadastrando: TESA000747 — Samsung
+2026-05-20 16:50:15,796 [INFO] Cadastrando: TESA000108 — Samsung
+2026-05-20 16:50:16,294 [INFO] Cadastrando: TESA000729 — Samsung
+2026-05-20 16:50:16,807 [INFO] Cadastrando: TESA0002010 — Samsung
+2026-05-20 16:50:17,255 [INFO] Cadastrando: TEAO0002511 — AOC
+2026-05-20 16:50:17,770 [INFO] Cadastrando: TEAO0003612 — AOC
+2026-05-20 16:50:18,212 [INFO] Cadastrando: TETO0006413 — Toshiba
+2026-05-20 16:50:18,970 [INFO] Cadastrando: TETO0008014 — Toshiba
+2026-05-20 16:50:19,504 [INFO] Cadastrando: TETO0006015 — Toshiba
+2026-05-20 16:50:19,998 [INFO] Cadastrando: TESE0005016 — SEMP
+2026-05-20 16:50:20,488 [INFO] Cadastrando: TESE0003817 — SEMP
+2026-05-20 16:50:21,060 [INFO] Cadastrando: TESE0005018 — SEMP
+2026-05-20 16:50:21,675 [INFO] Cadastrando: TEPH0004019 — Philco
+2026-05-20 16:50:22,199 [INFO] Cadastrando: TEPH0002720 — Philco
+2026-05-20 16:50:22,737 [INFO] Cadastrando: TETC0001521 — TCL
+2026-05-20 16:50:23,382 [INFO] Cadastrando: TETC0002222 — TCL
+2026-05-20 16:50:23,792 [INFO] Cadastrando: REGA000441 — Garmin
+2026-05-20 16:50:24,227 [INFO] Cadastrando: REGA000722 — Garmin
+2026-05-20 16:50:24,763 [INFO] Cadastrando: REXI000463 — Xiaomi
+2026-05-20 16:50:25,212 [INFO] Cadastrando: REXI000744 — Xiaomi
+2026-05-20 16:50:25,624 [INFO] Cadastrando: REXI000365 — Xiaomi
+2026-05-20 16:50:26,087 [INFO] Cadastrando: REXI000116 — Xiaomi
+2026-05-20 16:50:26,565 [INFO] Cadastrando: RESA000287 — Samsung
+2026-05-20 16:50:27,109 [INFO] Cadastrando: RESA000298 — Samsung
+2026-05-20 16:50:27,678 [INFO] Cadastrando: RESA000389 — Samsung
+2026-05-20 16:50:28,196 [INFO] Cadastrando: RESA0003210 — Samsung
+2026-05-20 16:50:28,634 [INFO] Cadastrando: CEAP000101 — Apple
+2026-05-20 16:50:29,324 [INFO] Cadastrando: CEAP000112 — Apple
+2026-05-20 16:50:29,879 [INFO] Cadastrando: CEAP000133 — Apple
+2026-05-20 16:50:30,738 [INFO] Cadastrando: CEAP000154 — Apple
+2026-05-20 16:50:31,446 [INFO] Cadastrando: CEAP000995 — Apple
+2026-05-20 16:50:32,187 [INFO] Cadastrando: CEAP000106 — Apple
+2026-05-20 16:50:32,748 [INFO] Cadastrando: CEAP000127 — Apple
+2026-05-20 16:50:33,441 [INFO] Cadastrando: CEAP000148 — Apple
+2026-05-20 16:50:34,192 [INFO] Cadastrando: CEAP000799 — Apple
+2026-05-20 16:50:34,943 [INFO] Cadastrando: CEAP0008910 — Apple
+2026-05-20 16:50:35,843 [INFO] Cadastrando: CEAP0001011 — Apple
+2026-05-20 16:50:36,682 [INFO] Cadastrando: CEAP0006912 — Apple
+2026-05-20 16:50:37,395 [INFO] Cadastrando: CEAP0007913 — Apple
+2026-05-20 16:50:38,088 [INFO] Cadastrando: CEAP0009914 — Apple
+2026-05-20 16:50:38,898 [INFO] Cadastrando: CEAP0004215 — Apple
+2026-05-20 16:50:40,028 [INFO] Cadastrando: CEAP0004716 — Apple
+2026-05-20 16:50:40,952 [INFO] Cadastrando: CEAP0005717 — Apple
+2026-05-20 16:50:41,609 [INFO] Cadastrando: CEAP0009418 — Apple
+2026-05-20 16:50:42,318 [INFO] Cadastrando: CEAP0001019 — Apple
+2026-05-20 16:50:43,188 [INFO] Cadastrando: CEAP0001220 — Apple
+2026-05-20 16:50:43,709 [INFO] Cadastrando: CEAP0001421 — Apple
+2026-05-20 16:50:44,236 [INFO] Cadastrando: CEAP0008422 — Apple
+2026-05-20 16:50:44,968 [INFO] Cadastrando: CEAP0009423 — Apple
+2026-05-20 16:50:46,031 [INFO] Cadastrando: CEAP0001124 — Apple
+2026-05-20 16:50:46,618 [INFO] Cadastrando: CEAP0001325 — Apple
+2026-05-20 16:50:47,335 [INFO] Cadastrando: CEAP0006426 — Apple
+2026-05-20 16:50:48,083 [INFO] Cadastrando: CEAP0007427 — Apple
+2026-05-20 16:50:48,780 [INFO] Cadastrando: CEAP0009428 — Apple
+2026-05-20 16:50:51,289 [INFO] Cadastrando: CEAP0005429 — Apple
+2026-05-20 16:50:51,798 [INFO] Cadastrando: CEAP0006430 — Apple
+2026-05-20 16:50:52,324 [INFO] Cadastrando: CEAP0008431 — Apple
+2026-05-20 16:50:53,005 [INFO] Cadastrando: CEAP0005932 — Apple
+2026-05-20 16:50:53,779 [INFO] Cadastrando: CEAP0006933 — Apple
+2026-05-20 16:50:55,509 [INFO] Cadastrando: CEAP0005434 — Apple
+2026-05-20 16:50:56,387 [INFO] Cadastrando: CEAP0006435 — Apple
+2026-05-20 16:50:56,941 [INFO] Cadastrando: CEAP0004436 — Apple
+2026-05-20 16:50:57,568 [INFO] Cadastrando: CEAP0004937 — Apple
+2026-05-20 16:50:58,106 [INFO] Cadastrando: CEAP0004938 — Apple
+2026-05-20 16:50:58,565 [INFO] Cadastrando: CEAP0005439 — Apple
+2026-05-20 16:50:59,066 [INFO] Cadastrando: CESA0002040 — Samsung
+2026-05-20 16:50:59,755 [INFO] Cadastrando: NODE000441 — Dell
+2026-05-20 16:51:00,507 [INFO] Cadastrando: NODE000512 — Dell
+2026-05-20 16:51:01,788 [INFO] Cadastrando: NOLE000183 — Lenovo
+2026-05-20 16:51:02,868 [INFO] Cadastrando: NOAC000224 — Acer
+2026-05-20 16:51:03,401 [INFO] Cadastrando: NOHP000215 — HP
+2026-05-20 16:51:04,368 [INFO] Cadastrando: NOMI000426 — Microsoft
+2026-05-20 16:51:04,930 [INFO] Cadastrando: NOHP000797 — HP
+2026-05-20 16:51:05,439 [INFO] Cadastrando: NOHP000238 — HP
+2026-05-20 16:51:06,358 [INFO] Cadastrando: NOLE000989 — Lenovo
+2026-05-20 16:51:07,717 [INFO] Cadastrando: NOHP0005210 — HP
+2026-05-20 16:51:08,413 [INFO] Cadastrando: NOSA0001311 — Samsung
+2026-05-20 16:51:09,269 [INFO] Cadastrando: NOHP0003512 — HP
+2026-05-20 16:51:09,846 [INFO] Cadastrando: NOAS0006213 — Asus
+2026-05-20 16:51:10,518 [INFO] Cadastrando: RESA000501 — Samsung
+2026-05-20 16:51:12,017 [INFO] Cadastrando: RESA000602 — Samsung
+2026-05-20 16:51:12,895 [INFO] Cadastrando: REAP000783 — Apple
+2026-05-20 16:51:13,462 [INFO] Cadastrando: CESA000301 — Samsung
+2026-05-20 16:51:14,083 [INFO] Cadastrando: CESA000402 — Samsung
+2026-05-20 16:51:14,883 [INFO] Cadastrando: CESA000103 — Samsung
+2026-05-20 16:51:15,653 [INFO] Cadastrando: CESA000154 — Samsung
+2026-05-20 16:51:16,451 [INFO] Cadastrando: CESA000205 — Samsung
+2026-05-20 16:51:17,331 [INFO] Cadastrando: CESA000276 — Samsung
+2026-05-20 16:51:18,060 [INFO] Cadastrando: CESA000107 — Samsung
+2026-05-20 16:51:18,973 [INFO] Cadastrando: CESA000808 — Samsung
+2026-05-20 16:51:19,885 [INFO] Cadastrando: CESA000909 — Samsung
+2026-05-20 16:51:20,768 [INFO] Cadastrando: CESA0001210 — Samsung
+2026-05-20 16:51:21,396 [INFO] Cadastrando: CESA0001511 — Samsung
+2026-05-20 16:51:22,536 [INFO] Cadastrando: CESA0002012 — Samsung
+2026-05-20 16:51:23,521 [INFO] Cadastrando: CEXI0002513 — Xiaomi
+2026-05-20 16:51:24,541 [INFO] Cadastrando: CEXI0003114 — Xiaomi
+2026-05-20 16:51:25,246 [INFO] Cadastrando: CEXI0001515 — Xiaomi
+2026-05-20 16:51:25,895 [INFO] Cadastrando: CEXI0002116 — Xiaomi
+2026-05-20 16:51:26,523 [INFO] Cadastrando: CEXI0002417 — Xiaomi
+2026-05-20 16:51:27,289 [INFO] Cadastrando: CEXI0003218 — Xiaomi
+2026-05-20 16:51:27,876 [INFO] Cadastrando: CEXI0002919 — Xiaomi
+2026-05-20 16:51:28,442 [INFO] Cadastrando: CEXI0002420 — Xiaomi
+2026-05-20 16:51:29,090 [INFO] Cadastrando: CEXI0002521 — Xiaomi
+2026-05-20 16:51:29,755 [INFO] Cadastrando: CEXI0002722 — Xiaomi
+2026-05-20 16:51:30,337 [INFO] Cadastrando: CEXI0003523 — Xiaomi
+2026-05-20 16:51:30,827 [INFO] Cadastrando: CEMO0006924 — Motorola
+2026-05-20 16:51:31,528 [INFO] Cadastrando: CEMO0009925 — Motorola
+2026-05-20 16:51:32,848 [INFO] Cadastrando: NOLE000741 — Lenovo
+2026-05-20 16:51:33,494 [INFO] Cadastrando: NODE000492 — Dell
+2026-05-20 16:51:34,188 [INFO] Cadastrando: NOAS000153 — Asus
+2026-05-20 16:51:34,728 [INFO] Cadastrando: NOHP000594 — HP
+2026-05-20 16:51:35,393 [INFO] Cadastrando: NOAC000525 — Acer
+2026-05-20 16:51:36,475 [INFO] Cadastrando: NOAC000216 — Acer
+2026-05-20 16:51:37,096 [INFO] Cadastrando: NOAC000127 — Acer
+2026-05-20 16:51:37,670 [INFO] Cadastrando: NODE000608 — Dell
+2026-05-20 16:51:38,554 [INFO] Cadastrando: NODE000749 — Dell
+2026-05-20 16:51:39,279 [INFO] Cadastrando: NOHP0007510 — HP
+2026-05-20 16:51:39,878 [INFO] Cadastrando: NOLE0009911 — Lenovo
+2026-05-20 16:51:40,530 [INFO] Cadastrando: CAHA000271 — Hashtag
+2026-05-20 16:51:41,493 [INFO] Cadastrando: TELO000131 — Logitech
+2026-05-20 16:51:42,272 [INFO] Cadastrando: TEDE000362 — Dell
+2026-05-20 16:51:43,386 [INFO] Cadastrando: TELO000443 — Logitech
+2026-05-20 16:51:44,105 [INFO] Cadastrando: TEDE000484 — Dell
+2026-05-20 16:51:45,110 [INFO] Cadastrando: MOLG000121 — LG
+2026-05-20 16:51:45,891 [INFO] Cadastrando: MOSA000152 — Samsung
+2026-05-20 16:51:46,602 [INFO] Cadastrando: MOLG000173 — LG
+2026-05-20 16:51:47,201 [INFO] Cadastrando: MOHA000251 — Hashtag
+2026-05-20 16:51:47,814 [INFO] Cadastrando: MOHA000252 — Hashtag
+2026-05-20 16:51:48,452 [INFO] Cadastrando: CAHA000253 — Hashtag
+2026-05-20 16:51:49,256 [INFO] Cadastrando: CAHA000254 — Hashtag
+2026-05-20 16:51:50,308 [INFO] Cadastrando: CHHA000275 — Hashtag
+2026-05-20 16:51:51,369 [INFO] Cadastrando: CAHA000276 — Hashtag
+2026-05-20 16:51:52,171 [INFO] Cadastrando: CAHA000277 — Hashtag
+2026-05-20 16:51:53,435 [INFO] Cadastrando: CAHA000278 — Hashtag
+2026-05-20 16:51:54,175 [INFO] Cadastrando: CAHA0009.9 — Hashtag
+2026-05-20 16:51:54,809 [INFO] Cadastrando: CAHA0004510 — Hashtag
+2026-05-20 16:51:55,357 [INFO] Cadastrando: CAHA0004511 — Hashtag
+2026-05-20 16:51:56,016 [INFO] Cadastrando: CAHA0004512 — Hashtag
+2026-05-20 16:51:56,722 [INFO] Cadastrando: CAHA0004513 — Hashtag
+2026-05-20 16:51:57,818 [INFO] Cadastrando: CAHA0004814 — Hashtag
+2026-05-20 16:51:58,557 [INFO] Cadastrando: CAHA0004815 — Hashtag
+2026-05-20 16:51:59,182 [INFO] Cadastrando: CAHA0004816 — Hashtag
+2026-05-20 16:51:59,835 [INFO] Cadastrando: CAHA0004817 — Hashtag
+2026-05-20 16:52:00,990 [INFO] Cadastrando: CAHA0004518 — Hashtag
+2026-05-20 16:52:01,853 [INFO] Cadastrando: CAHA0004519 — Hashtag
+2026-05-20 16:52:02,419 [INFO] Cadastrando: CAHA0004520 — Hashtag
+2026-05-20 16:52:03,786 [INFO] Cadastrando: CAHA0004521 — Hashtag
+2026-05-20 16:52:04,584 [INFO] Cadastrando: MOMU0004.1 — Multilaser
+2026-05-20 16:52:05,359 [INFO] Cadastrando: MOMU0003.2 — Multilaser
+2026-05-20 16:52:06,054 [INFO] Cadastrando: MOLO0006.3 — Logitech
+2026-05-20 16:52:06,656 [INFO] Cadastrando: TELG000111 — LG
+2026-05-20 16:52:07,192 [INFO] Cadastrando: CAHA000481 — Hashtag
+2026-05-20 16:52:07,724 [INFO] Cadastrando: CAHA000482 — Hashtag
+2026-05-20 16:52:08,408 [INFO] Cadastrando: MOSP000221 — Spectre
+2026-05-20 16:52:09,225 [INFO] Cadastrando: MOSP000132 — Spectre
+2026-05-20 16:52:09,954 [INFO] Cadastrando: MOSP0007.3 — Spectre
+2026-05-20 16:52:10,726 [INFO] Cadastrando: TELG000201 — LG
+2026-05-20 16:52:11,271 [INFO] Cadastrando: MOLG000782 — LG
+2026-05-20 16:52:11,801 [INFO] Cadastrando: BEHA000481 — Hashtag
+2026-05-20 16:52:12,576 [INFO] Cadastrando: BEHA000482 — Hashtag
+2026-05-20 16:52:13,139 [INFO] Cadastrando: CAHA000123 — Hashtag
+2026-05-20 16:52:14,433 [INFO] Cadastrando: CAHA000124 — Hashtag
+2026-05-20 16:52:15,171 [INFO] Cadastrando: NOAC000791 — Acer
+2026-05-20 16:52:15,823 [INFO] Cadastrando: NOMU000192 — Multilaser
+2026-05-20 16:52:16,673 [INFO] Cadastrando: NOHP000943 — HP
+2026-05-20 16:52:17,368 [INFO] Cadastrando: NOAP000144 — Apple
+2026-05-20 16:52:18,001 [INFO] Cadastrando: NOAP000255 — Apple
+2026-05-20 16:52:19,162 [INFO] Cadastrando: NOAP000646 — Apple
+2026-05-20 16:52:19,699 [INFO] Cadastrando: NOAP000247 — Apple
+2026-05-20 16:52:20,481 [INFO] Cadastrando: NOAP000128 — Apple
+2026-05-20 16:52:21,383 [INFO] Cadastrando: NOAP000599 — Apple
+2026-05-20 16:52:21,956 [INFO] Cadastrando: TETC000121 — TCL
+2026-05-20 16:52:22,707 [INFO] Cadastrando: TEVI000152 — Vizio
+2026-05-20 16:52:23,368 [INFO] Cadastrando: TEVI000443 — Vizio
+2026-05-20 16:52:24,620 [INFO] Cadastrando: TEVI000244 — Vizio
+2026-05-20 16:52:25,468 [INFO] Cadastrando: TEIN000255 — Insignia
+2026-05-20 16:52:26,528 [INFO] Cadastrando: TEIN000346 — Insignia
+2026-05-20 16:52:27,058 [INFO] Cadastrando: TEIN000187 — Insignia
+2026-05-20 16:52:28,207 [INFO] Cadastrando: TELG000398 — LG
+2026-05-20 16:52:29,656 [INFO] Cadastrando: TELG000559 — LG
+2026-05-20 16:52:30,768 [INFO] Cadastrando: TESO0001210 — Sony
+2026-05-20 16:52:31,357 [INFO] Cadastrando: TESO0003311 — Sony
+2026-05-20 16:52:31,904 [INFO] Cadastrando: TESO0006012 — Sony
+2026-05-20 16:52:32,551 [INFO] Cadastrando: TESO0005913 — Sony
+2026-05-20 16:52:33,504 [INFO] Cadastrando: REAP000101 — Apple
+2026-05-20 16:52:34,881 [INFO] Cadastrando: REAP000702 — Apple
+2026-05-20 16:52:36,449 [INFO] Cadastrando: REAP000643 — Apple
+2026-05-20 16:52:37,151 [INFO] Cadastrando: REAP000504 — Apple
+2026-05-20 16:52:37,686 [INFO] Cadastrando: REAP000485 — Apple
+2026-05-20 16:52:38,171 [INFO] Cadastrando: REAP000446 — Apple
+2026-05-20 16:52:38,653 [INFO] Cadastrando: REAP000327 — Apple
+2026-05-20 16:52:39,240 [INFO] Cadastrando: REGA000928 — Garmin
+2026-05-20 16:52:39,845 [INFO] Cadastrando: REGA000809 — Garmin
+2026-05-20 16:52:40,385 [INFO] Cadastrando: RESA0002410 — Samsung
+2026-05-20 16:52:41,024 [INFO] Cadastrando: CaCA000581 — Canon
+2026-05-20 16:52:41,981 [INFO] Cadastrando: CaCA000502 — Canon
+2026-05-20 16:52:42,589 [INFO] Cadastrando: CaCA000483 — Canon
+2026-05-20 16:52:43,101 [INFO] Cadastrando: CaCA000894 — Canon
+2026-05-20 16:52:43,673 [INFO] Cadastrando: MOLO000151 — Logitech
+2026-05-20 16:52:44,336 [INFO] Cadastrando: TELG000101 — LG
+2026-05-20 16:52:45,115 [INFO] Cadastrando: MOSA000191 — Samsung
+2026-05-20 16:52:45,878 [INFO] Cadastrando: CaNI000131 — Nikon
+2026-05-20 16:52:46,472 [INFO] Cadastrando: CaNI000272 — Nikon
+2026-05-20 16:52:47,056 [INFO] Cadastrando: CaNI000793 — Nikon
+2026-05-20 16:52:47,615 [INFO] Cadastrando: CaNI000214 — Nikon
+2026-05-20 16:52:48,196 [INFO] Cadastrando: MODE000191 — Dell
+2026-05-20 16:52:48,880 [INFO] Cadastrando: TEMU000211 — Multilaser
+2026-05-20 16:52:49,419 [INFO] Cadastrando: MOSA000121 — Samsung
+2026-05-20 16:52:50,039 [INFO] Cadastrando: MODE000141 — Dell
+2026-05-20 16:52:51,745 [ERROR] Erro ao cadastrar MODE000141: Message: element click intercepted: Element <button type="submit" class="btn-cadastrar">...</button> is not clickable at point (960, 173). Other element would receive the click: <td>...</td>
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff67d2f7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff67d2f7e50+14900]
+	chromedriver!(No symbol) [0x7ff67d05d5ad]
+	chromedriver!(No symbol) [0x7ff67d0bf3b5]
+	chromedriver!(No symbol) [0x7ff67d0bcfca]
+	chromedriver!(No symbol) [0x7ff67d0ba307]
+	chromedriver!(No symbol) [0x7ff67d0b91b7]
+	chromedriver!(No symbol) [0x7ff67d0abce6]
+	chromedriver!(No symbol) [0x7ff67d0e005a]
+	chromedriver!(No symbol) [0x7ff67d0ab566]
+	chromedriver!(No symbol) [0x7ff67d10486f]
+	chromedriver!(No symbol) [0x7ff67d0a9df8]
+	chromedriver!(No symbol) [0x7ff67d0aace3]
+	chromedriver!GetHandleVerifier [0x7ff67d60cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff67d607375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff67d62bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff67d316045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff67d31ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff67d301bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff67d301d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff67d2e60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffba24fe957+17]
+	ntdll!RtlUserThreadStart [0x7ffba2da427c+2c]
+
+2026-05-20 16:52:51,748 [INFO] Cadastrando: TEMU0008.1 — Multilaser
+2026-05-20 16:52:52,702 [INFO] Cadastrando: MOSA000171 — Samsung
+2026-05-20 16:52:53,402 [INFO] Cadastrando: MODE000281 — Dell
+2026-05-20 16:52:54,223 [INFO] Cadastrando: CaNI000251 — Nikon
+2026-05-20 16:52:55,247 [INFO] Cadastrando: CaSO000212 — Sony
+2026-05-20 16:52:56,009 [INFO] Cadastrando: CaSO000153 — Sony
+2026-05-20 16:52:56,799 [INFO] Cadastrando: CaSO000124 — Sony
+2026-05-20 16:52:57,623 [INFO] Cadastrando: CaSO000165 — Sony
+2026-05-20 16:52:58,340 [INFO] Cadastrando: CaSO000996 — Sony
+2026-05-20 16:52:59,026 [INFO] Cadastrando: CaSO000347 — Sony
+2026-05-20 16:52:59,766 [INFO] Cadastrando: ACAP000191 — Apple
+2026-05-20 16:53:00,601 [INFO] Cadastrando: ACAP000222 — Apple
+2026-05-20 16:53:05,371 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60002): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/ed02ed7f433c6795cf92529aa5583ab6
+2026-05-20 16:53:09,414 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60002): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/ed02ed7f433c6795cf92529aa5583ab6
+2026-05-20 16:53:13,479 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60002): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/ed02ed7f433c6795cf92529aa5583ab6
+2026-05-20 16:53:17,550 [INFO] Navegador fechado.
+2026-05-20 16:58:59,086 [INFO] Abrindo TechStock...
+2026-05-20 16:58:59,825 [INFO] Login no TechStock realizado.
+2026-05-20 16:58:59,826 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 16:59:00,351 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 16:59:00,803 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 16:59:01,267 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 16:59:01,843 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 16:59:02,429 [INFO] Cadastrando: BOHA000251 — Hashtag
+2026-05-20 16:59:03,065 [INFO] Cadastrando: BOHA000252 — Hashtag
+2026-05-20 16:59:03,710 [INFO] Cadastrando: CAHA000273 — Hashtag
+2026-05-20 16:59:04,515 [INFO] Cadastrando: CAHA000274 — Hashtag
+2026-05-20 16:59:05,249 [INFO] Cadastrando: CAHA000275 — Hashtag
+2026-05-20 16:59:06,787 [INFO] Cadastrando: TELG000821 — LG
+2026-05-20 16:59:07,462 [INFO] Cadastrando: TELG000252 — LG
+2026-05-20 16:59:08,081 [INFO] Cadastrando: TELG000373 — LG
+2026-05-20 16:59:08,850 [INFO] Cadastrando: TELG000524 — LG
+2026-05-20 16:59:13,604 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58622): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/d18ae8c04d1c158d610fa97b6a3f95f2
+2026-05-20 16:59:17,671 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58622): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/d18ae8c04d1c158d610fa97b6a3f95f2
+2026-05-20 16:59:21,736 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58622): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/d18ae8c04d1c158d610fa97b6a3f95f2
+2026-05-20 16:59:25,793 [INFO] Navegador fechado.
+2026-05-20 17:00:04,968 [INFO] Abrindo TechStock...
+2026-05-20 17:00:05,683 [INFO] Login no TechStock realizado.
+2026-05-20 17:00:05,683 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 17:00:06,180 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 17:00:06,750 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 17:00:07,240 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 17:00:07,975 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 17:00:09,042 [INFO] Cadastrando: BOHA000251 — Hashtag
+2026-05-20 17:00:09,691 [INFO] Cadastrando: BOHA000252 — Hashtag
+2026-05-20 17:00:11,252 [INFO] Cadastrando: CAHA000273 — Hashtag
+2026-05-20 17:00:11,987 [INFO] Cadastrando: CAHA000274 — Hashtag
+2026-05-20 17:00:17,018 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53504): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/3af770a6c6a6e234c6b556d2b0d66beb
+2026-05-20 17:00:21,083 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53504): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/3af770a6c6a6e234c6b556d2b0d66beb
+2026-05-20 17:00:25,153 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53504): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/3af770a6c6a6e234c6b556d2b0d66beb
+2026-05-20 17:00:29,207 [INFO] Navegador fechado.
+2026-05-20 17:01:41,907 [INFO] Abrindo TechStock...
+2026-05-20 17:01:42,637 [INFO] Login no TechStock realizado.
+2026-05-20 17:01:42,639 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 17:01:43,116 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 17:01:43,671 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 17:01:44,298 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 17:01:45,084 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 17:01:45,722 [INFO] Cadastrando: BOHA000251 — Hashtag
+2026-05-20 17:01:46,236 [INFO] Cadastrando: BOHA000252 — Hashtag
+2026-05-20 17:01:46,979 [INFO] Cadastrando: CAHA000273 — Hashtag
+2026-05-20 17:01:47,721 [INFO] Cadastrando: CAHA000274 — Hashtag
+2026-05-20 17:01:48,250 [INFO] Cadastrando: CAHA000275 — Hashtag
+2026-05-20 17:01:48,799 [INFO] Cadastrando: TELG000821 — LG
+2026-05-20 17:17:02,380 [INFO] Abrindo TechStock...
+2026-05-20 17:17:20,588 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54376): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/96b29d7c748616eb8e045506089b4b43
+2026-05-20 17:17:24,654 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54376): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/96b29d7c748616eb8e045506089b4b43
+2026-05-20 17:17:28,701 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54376): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/96b29d7c748616eb8e045506089b4b43
+2026-05-20 17:17:32,749 [INFO] Navegador fechado.
+2026-05-20 17:18:29,749 [INFO] Abrindo TechStock...
+2026-05-20 17:18:39,285 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/9bfbc3c58643c8e5d9ed5652038f210e
+2026-05-20 17:18:43,335 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58684): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/9bfbc3c58643c8e5d9ed5652038f210e
+2026-05-20 17:18:47,370 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=58684): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/9bfbc3c58643c8e5d9ed5652038f210e
+2026-05-20 17:18:51,421 [INFO] Navegador fechado.
+2026-05-20 17:19:13,812 [INFO] Abrindo TechStock...
+2026-05-20 17:19:26,457 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/e2510482cfba94a421ad106edb7b614d
+2026-05-20 17:19:30,506 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61239): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/e2510482cfba94a421ad106edb7b614d
+2026-05-20 17:19:34,555 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61239): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/e2510482cfba94a421ad106edb7b614d
+2026-05-20 17:19:38,598 [INFO] Navegador fechado.
+2026-05-20 17:20:15,080 [INFO] Abrindo TechStock...
+2026-05-20 17:20:31,607 [INFO] Login no TechStock realizado.
+2026-05-20 17:20:31,611 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 17:20:47,261 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53054): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/29fe08794c261762b0f472cfac2568c8
+2026-05-20 17:20:51,317 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53054): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/29fe08794c261762b0f472cfac2568c8
+2026-05-20 17:20:55,387 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53054): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/29fe08794c261762b0f472cfac2568c8
+2026-05-20 17:20:59,476 [INFO] Navegador fechado.
+2026-05-20 17:29:05,377 [INFO] Abrindo TechStock...
+2026-05-20 17:29:13,507 [INFO] Login no TechStock realizado.
+2026-05-20 17:29:13,508 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 17:29:23,953 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 17:29:32,925 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 17:29:41,485 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 17:29:53,942 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 17:30:02,911 [INFO] Cadastrando: BOHA000251 — Hashtag
+2026-05-20 17:30:10,875 [INFO] Cadastrando: BOHA000252 — Hashtag
+2026-05-20 17:30:17,334 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/3f0cb178a9d21a72c68f6fb2c151402d
+2026-05-20 17:30:21,393 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64696): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/3f0cb178a9d21a72c68f6fb2c151402d
+2026-05-20 17:30:25,457 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64696): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/3f0cb178a9d21a72c68f6fb2c151402d
+2026-05-20 17:30:29,519 [INFO] Navegador fechado.
+2026-05-20 17:42:07,743 [INFO] Abrindo TechStock...
+2026-05-20 17:42:16,091 [INFO] Login no TechStock realizado.
+2026-05-20 17:42:16,092 [INFO] Cadastrando: MOLO000251 — Logitech
+2026-05-20 17:42:25,059 [INFO] Cadastrando: MOLO000192 — Logitech
+2026-05-20 17:42:34,423 [INFO] Cadastrando: CAHA000251 — Hashtag
+2026-05-20 17:42:44,630 [INFO] Cadastrando: CAHA000252 — Hashtag
+2026-05-20 17:42:58,312 [INFO] Cadastrando: MOMU000111 — Multilaser
+2026-05-20 17:43:11,316 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51510): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/2786a4149cefb7890f508044130ae162
+2026-05-20 17:43:15,390 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51510): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/2786a4149cefb7890f508044130ae162
+2026-05-20 17:43:19,446 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51510): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/2786a4149cefb7890f508044130ae162
+2026-05-20 17:43:23,493 [INFO] Navegador fechado.
